@@ -3,32 +3,27 @@
     {
       "id": "1",
       "title": "MUNJYA",
-      "releaseDate": "7 June 2024",
-      "posterPath": "Images/munjya.jpg"
+      "posterPath": "assets/munjya.jpg"
     },
     {
       "id": "2",
       "title": "KALKI",
-      "releaseDate": "27 June 2024",
-      "posterPath": "Images/kalki.jpg"
+      "posterPath": "assets/kalki.jpeg"
     },
     {
       "id": "3",
-      "title": "TOTAL DHAMAL",
-      "releaseDate": "22 February 2019",
-      "posterPath": "Images/total-dhamal.jpg"
+      "title": "FIGHTER",
+      "posterPath": "assets/Fighter.jpg"
     },
     {
       "id": "4",
-      "title": "FIGHTER",
-      "releaseDate": "25 January 2024",
-      "posterPath": "Images/fighter.jpg"
+      "title": "KAKUDA",
+      "posterPath": "assets/kakuda.jpeg"
     },
     {
       "id": "5",
-      "title": "KAKUDA",
-      "releaseDate": "12 July 2024",
-      "posterPath": "Images/kakuda.jpg"
+      "title": "TOTAL DHAMAL",
+      "posterPath": "assets/total-dhamal.jpeg"
     }
   ],
   "favourites": []

@@ -1,0 +1,35 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "MUNJYA",
+      "releaseDate": "7 June 2024",
+      "posterPath": "Images/munjya.jpg"
+    },
+    {
+      "id": "2",
+      "title": "KALKI",
+      "releaseDate": "27 June 2024",
+      "posterPath": "Images/kalki.jpg"
+    },
+    {
+      "id": "3",
+      "title": "TOTAL DHAMAL",
+      "releaseDate": "22 February 2019",
+      "posterPath": "Images/total-dhamal.jpg"
+    },
+    {
+      "id": "4",
+      "title": "FIGHTER",
+      "releaseDate": "25 January 2024",
+      "posterPath": "Images/fighter.jpg"
+    },
+    {
+      "id": "5",
+      "title": "KAKUDA",
+      "releaseDate": "12 July 2024",
+      "posterPath": "Images/kakuda.jpg"
+    }
+  ],
+  "favourites": []
+}
